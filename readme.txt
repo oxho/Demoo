@@ -4,6 +4,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 Git tracks changes.
-mac 22:56
+mac 23:11
 
 Creating a new branch is quick and simple.
