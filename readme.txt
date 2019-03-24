@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 
 Git has a mutable index called stage.
 
-mac 20:47
+Git tracks changes.
+mac 20:53
