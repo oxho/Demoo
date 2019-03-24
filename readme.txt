@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 mac 22:56
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
